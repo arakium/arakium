@@ -29,7 +29,10 @@ Python is the one I'd trust you with. The rest I use as needed and would rather 
 
 ## Live panel
 
-![GitHub Repo stars](https://img.shields.io/github/stars/arakium/arakium?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/arakium/arakium?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/arakium/arakium?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/arakium/arakium?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/arakium?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/arakium?style=for-the-badge)
+![GitHub User's public repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Farakium)
+![GitHub User's account age](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub%20Since&query=created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Farakium)
+
+![Arakium GitHub stats](https://github-readme-stats.vercel.app/api?username=arakium&show_icons=true&include_all_commits=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arakium&layout=compact)
