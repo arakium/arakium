@@ -27,4 +27,9 @@ Python is the one I'd trust you with. The rest I use as needed and would rather 
 
 ---
 
-*No stats widget here. Check the commit history instead.*
+## Live panel
+
+![GitHub Repo stars](https://img.shields.io/github/stars/arakium/arakium?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/arakium/arakium?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/arakium/arakium?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/arakium/arakium?style=for-the-badge)
