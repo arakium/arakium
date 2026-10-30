@@ -1,4 +1,3 @@
-![GitHub followers](https://img.shields.io/github/followers/arakium?style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/arakium?style=for-the-badge)
 ![GitHub User's public repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Farakium)
 ![GitHub User's account age](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub%20Since&query=created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Farakium)
